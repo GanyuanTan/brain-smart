@@ -1,4 +1,4 @@
-# brain-smart
+# SMART-BRAIN
 Project about smart-brain base on Udemy Course
 
 
