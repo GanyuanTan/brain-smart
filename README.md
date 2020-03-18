@@ -1,6 +1,8 @@
 # brain-smart
 Project about smart-brain base on Udemy Course
-	Run npm install
-	Run npm start
+
+
+	1. Run npm install
+	2. Run npm start
 
 
